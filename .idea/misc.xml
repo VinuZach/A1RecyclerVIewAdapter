@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidProject/SampleProject_git1/A1RecyclerViewAdapter/src/main/res/layout/default_linearlayout.xml" value="0.36666666666666664" />
+        <entry key="..\:/androidProject/SampleProject_git1/app/src/main/res/drawable/ic_edit_24.xml" value="0.3769230769230769" />
+        <entry key="..\:/androidProject/SampleProject_git1/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/androidProject/SampleProject_git1/app/src/main/res/layout/item_elements.xml" value="0.36666666666666664" />
+        <entry key="..\:/androidProject/SampleProject_git1/app/src/main/res/layout/item_firstelement.xml" value="0.36666666666666664" />
+        <entry key="..\:/androidProject/SampleProject_git1/app/src/main/res/layout/latout_footer.xml" value="0.36666666666666664" />
+        <entry key="..\:/androidProject/SampleProject_git1/app/src/main/res/layout/layout_customfooter.xml" value="0.36666666666666664" />
+        <entry key="..\:/androidProject/SampleProject_git1/app/src/main/res/layout/layout_footer.xml" value="0.36666666666666664" />
+        <entry key="..\:/androidProject/SampleProject_git1/app/src/main/res/layout/layout_separator.xml" value="0.20520833333333333" />
+        <entry key="..\:/androidProject/SampleProject_git1/app/src/main/res/layout/layout_userdetails_header.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
