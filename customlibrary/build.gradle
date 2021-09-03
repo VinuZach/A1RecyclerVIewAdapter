@@ -1,11 +1,8 @@
 plugins {
-    id 'android-library'
+    id 'com.android.library'
     id 'kotlin-android'
-    id 'maven-publish'
-
-
 }
-group='com.github.VinuZach'
+
 android {
     compileSdk 31
 
@@ -26,8 +23,8 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_11
-        targetCompatibility JavaVersion.VERSION_11
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
     }
     kotlinOptions {
         jvmTarget = '1.8'
@@ -42,16 +39,4 @@ dependencies {
     testImplementation 'junit:junit:4.+'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
-
-}
-
-publishing {
-    publications {
-        myPulication(MavenPublication) {
-            groupId 'com.example.a1recyclerviewadapter'
-            version '0.0.5'
-            artifactId 'A1RecyclerViewAdapter'
-            artifact("$buildDir/outputs/aar/A1RecyclerViewAdapter-debug.aar")
-        }
-    }
 }

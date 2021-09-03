@@ -1,4 +1,4 @@
-package com.example.a1recyclerviewadapter
+package com.example.customlibrary
 
 import android.content.Context
 import android.view.LayoutInflater

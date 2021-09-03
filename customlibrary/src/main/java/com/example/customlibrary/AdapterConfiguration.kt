@@ -1,4 +1,4 @@
-package com.example.a1recyclerviewadapter
+package com.example.customlibrary
 
 import android.view.View
 import androidx.recyclerview.widget.RecyclerView

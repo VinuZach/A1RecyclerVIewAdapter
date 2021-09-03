@@ -9,7 +9,8 @@ import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.widget.SwitchCompat
 import androidx.recyclerview.widget.RecyclerView
-import com.example.a1recyclerviewadapter.A1RecyclerAdapter
+import com.example.customlibrary.A1RecyclerAdapter
+
 import com.example.sampleproject_git1.defaultdata.ExperienceDetails
 import com.example.sampleproject_git1.defaultdata.UserProfile
 

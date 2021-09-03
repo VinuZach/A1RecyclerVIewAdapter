@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "SampleProject_git1"
 include ':app'
 include ':A1RecyclerViewAdapter'
+include ':customlibrary'

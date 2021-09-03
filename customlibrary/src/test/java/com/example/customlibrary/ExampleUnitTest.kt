@@ -1,4 +1,4 @@
-package com.example.a1recyclerviewadapter
+package com.example.customlibrary
 
 import org.junit.Test
 

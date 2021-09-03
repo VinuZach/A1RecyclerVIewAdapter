@@ -1,4 +1,4 @@
-package com.example.a1recyclerviewadapter
+package com.example.customlibrary
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -21,6 +21,6 @@ class ExampleInstrumentedTest
     {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.example.a1recyclerviewadapter.test", appContext.packageName)
+        assertEquals("com.example.customlibrary.test", appContext.packageName)
     }
 }
