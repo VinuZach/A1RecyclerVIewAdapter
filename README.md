@@ -27,6 +27,7 @@ the adapter also contains optional features(layouts that can be defined)
 
     val adapter = object : A1RecyclerAdapter<ExperienceDetails>(this, userExperienceList)
         {
+            ....
             override val headerResourceId: Int
                 get() = R.layout.layout_userdetails_header
             override val footerResourceId: Int
